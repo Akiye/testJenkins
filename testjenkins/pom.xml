@@ -67,7 +67,7 @@
               <username>jbezaba</username>
               <password>Nannyasch12</password>
               <businessGroup>Johnson Controls Building Solutions</businessGroup>
-              <environment>Sandbox</environment>
+              <environment>Design</environment>
               <applicationName>testjenkins</applicationName>
               <muleVersion>4.1.5</muleVersion>
               <!-- This is the runtime version as it appears on the CloudHub interface -->
