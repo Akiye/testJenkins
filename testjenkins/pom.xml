@@ -64,10 +64,10 @@
           <extensions>true</extensions>
           <configuration>
             <cloudHubDeployment>
-              <username>jaschalew</username>
+              <username>jbezaba</username>
               <password>Nannyasch12</password>
-              <businessGroup>abc</businessGroup>
-              <environment>Sandbox</environment>
+              <businessGroup>Johnson Controls Building Solutions</businessGroup>
+              <environment>DEV-US</environment>
               <applicationName>testjenkins</applicationName>
               <muleVersion>4.1.5</muleVersion>
               <!-- This is the runtime version as it appears on the CloudHub interface -->
